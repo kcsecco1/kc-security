@@ -1,0 +1,19 @@
+<DOCTYPE html>
+    <html>
+        
+        <head>
+            <meta charset="utf-8">
+            <title>KC-security</title>
+            <link rel="stylesheet" href="style.css">
+        </head>
+        <body>
+            <div class="centre">
+            <h1>KC-security les début</h1>
+                <h2>Projet Adiazo</h2>
+
+                    <p>Bonjour aujourd'hui je vais vous parler du premier projet de mon ami K et de mois C.</p>
+                    <p>Nous faisons deux chose des nouvelle invention revolutionnant la securiter des données a la création de site nous somme POLYVALENT.</p>
+            
+           </div>
+        </body>
+    </html>
